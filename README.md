@@ -9,4 +9,4 @@ Website ini, yang saya beri nama Pricing Table, adalah sebuah website sederhana 
 Terima kasih banyak atas perhatiannya!
 
 
-# Jangan ragu untuk menjelajahi repositori GitHub saya di https://github.com/hisyamsz dan berikan bintang (star) jika Anda menemukan proyek yang bermanfaat. Dengan memberikan bintang (star) ini membantu saya agar dapat terus berkembang untuk kedepannya.
+> Jangan ragu untuk menjelajahi repositori GitHub saya di https://github.com/hisyamsz dan berikan bintang (star) jika Anda menemukan proyek yang bermanfaat. Dengan memberikan bintang (star) ini membantu saya agar dapat terus berkembang untuk kedepannya.
