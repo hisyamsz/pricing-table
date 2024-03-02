@@ -1,4 +1,4 @@
-# pricing-table
+# Pricing Table
 
 Halo Semuanya!
 
@@ -8,6 +8,6 @@ Website ini, yang saya beri nama Pricing Table, adalah sebuah website sederhana 
 
 Terima kasih banyak atas perhatiannya!
 
-website: https://hisyamsz.github.io/museum-of-dino/
+website: https://hisyamsz.github.io/pricing-table/
 
 > Jangan ragu untuk menjelajahi repositori GitHub saya di https://github.com/hisyamsz dan berikan bintang (star) jika Anda menemukan proyek yang bermanfaat. Dengan memberikan bintang (star) ini membantu saya agar dapat terus berkembang untuk kedepannya.
